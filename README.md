@@ -1,8 +1,8 @@
-# Practicum Coffee Shop
+Practicum Coffee Shop
 
 This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
 
-## Project features
+Project features
 
 - Semantic HTML5
 - Flexbox
@@ -11,6 +11,6 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+Plan on improving the project
 
-Add your ideas here :)
+Hover annimations can be applied to links for a more polished feel. The circles in the header and recipes background can animate so the pages feel less static.

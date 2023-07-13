@@ -13,6 +13,14 @@
   margin: 0 0 8px;
 }
 
+.form__label_terms {
+  justify-content: center;
+  margin-bottom: 0;
+  display: flex;
+  font-style: normal;
+  font-weight: 500;
+}
+
 .form__input {
   font-style: normal;
   font-weight: normal;
@@ -47,12 +55,4 @@
   width: 20px;
   margin-right: 12px;
   border-radius: 2px;
-}
-
-.form__label_terms {
-  justify-content: center;
-  margin-bottom: 0;
-  display: flex;
-  font-style: normal;
-  font-weight: 500;
 }

@@ -31,6 +31,8 @@
   display: flex;
   flex-wrap: wrap;
   gap: 100px;
-  width: 1180px;
   justify-content: center;
 }
+
+/* I think the horizontal scrolling was happening because I had the width of the menu cards set to 1180px
+instead of allowing it to grow and shrink. Sorry! I'm such a newbie thank you for your suggestions! */

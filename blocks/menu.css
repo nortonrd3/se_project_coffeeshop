@@ -1,6 +1,6 @@
 .menu {
   background-color: #fff;
-  background-image: url(/images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -21,7 +21,7 @@
 .menu__subtitle {
   max-width: 780px;
   margin: 0 0 100px;
-  font-family: "Noto Serif", Times, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   text-align: center;
@@ -33,6 +33,3 @@
   gap: 100px;
   justify-content: center;
 }
-
-/* I think the horizontal scrolling was happening because I had the width of the menu cards set to 1180px
-instead of allowing it to grow and shrink. Sorry! I'm such a newbie thank you for your suggestions! */

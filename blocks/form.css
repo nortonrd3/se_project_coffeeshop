@@ -13,12 +13,10 @@
   margin: 0 0 8px;
 }
 
-.form__label_terms {
+.form__label_theme_terms {
   justify-content: center;
   margin-bottom: 0;
   display: flex;
-  font-style: normal;
-  font-weight: 500;
 }
 
 .form__input {
@@ -27,6 +25,7 @@
   font-size: 20px;
   line-height: 30px;
   border-radius: 4px;
+  border-color: #838383;
   margin: 0 0 32px;
   height: 60px;
   max-width: 385px;
@@ -41,8 +40,10 @@
   color: #ffffff;
   font-weight: 500;
   border-radius: 4px;
+  border-color: #2f80ed;
   padding: 0;
   opacity: 1;
+  cursor: pointer;
 }
 
 .form__button:hover {
